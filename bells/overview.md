@@ -21,7 +21,7 @@ Another convenient feature of the Bell Schedule is the widget that lives in the 
 
 To add the widget:
 
-1. Unlock you device
+1. Unlock your device
 2. Go to the today view
 3. Scroll to the bottom and tap the 'Edit' button
 4. Scroll down to the 'More Widgets' section and tap to add 'CHS Bell Schedule'
