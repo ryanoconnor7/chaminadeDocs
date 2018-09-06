@@ -28,10 +28,11 @@ To add the widget:
 3. Scroll to the bottom and tap the 'Edit' button
 4. Scroll down to the 'More Widgets' section and tap to add 'CHS Bell Schedule'
 
-![The widget has two modes: collapsed and expanded. Tap the 'Show More' or 'Show Less' button to toggle this.](photo-2.jpeg)
+![](photo-2.jpeg)
 
+The widget has two modes: collapsed and expanded. Tap the 'Show More' or 'Show Less' button to toggle this.
 
-The widget is designed to operate independent from the app for as long as the calendar runs (up to 60 days). However, again, if the bell schedule changes, the only way the widget will know this is if the app is opened. 
+The widget is designed to operate independent from the app for as long as the calendar runs (up to 60 days). However, if the bell schedule changes, the only way the widget will know this is if the app is opened. 
 
 ![](photo-3.jpeg)
 
