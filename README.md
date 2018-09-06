@@ -2,7 +2,7 @@
 
 Welcome to the guide for the Chaminade HS App. This guide covers how to use less obvious features that add convenience to students' and teachers' workflows. 
 
-## Table of Contents
+## Table of Contents {docsify-ignore}
 
 * [**Bell Schedule**](bells/overview.md) 
 
