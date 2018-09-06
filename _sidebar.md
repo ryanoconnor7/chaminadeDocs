@@ -3,6 +3,5 @@
 
 * **Bell Schedule**
 * * [Feature Overview](bells/overview.md)
-* * [Add Bell Schedule Widget](bells/widget.md)
 
 
