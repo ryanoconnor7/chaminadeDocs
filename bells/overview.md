@@ -36,7 +36,7 @@ The widget is designed to operate independent from the app for as long as the ca
 
 ## Set Your Own Class Schedule
 
-⚠️ To user this feature, ensure that your app is updated to at least version 1.5.
+⚠️ Ensure your app is updated to version 1.5 or greater to use this feature.
 
 By inputting your own classes and rooms, the Bell Schedule feature will automatically show your schedule for the current cycle day. 
 
