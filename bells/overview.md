@@ -6,7 +6,6 @@ In the app, the Bell Schedule view can be found in Events, then by tapping the '
 
 At all times on school days cycle day is indicated by the round number,the schedule type is indicated by the bold title, and the day's bells are displayed below. The next bell (ex: Period 1a ends at 8:57 AM) and the time remaining until that bell are displayed below the title before and during school. 
 
-
 ## How it Works
 
 The Bell Schedule is configured automatically based on the type of schedule (Mass, Assembly, etc.) and the cycle day. Both of these are determined based on the events calendar. 
@@ -15,7 +14,6 @@ A few things to note:
 
 * Because the schedule relies on the calendar, the app must be opened to refresh the schedule in the event there is a schedule change. 
 * 'Special' mass or assembly schedules are not supported at this time. 
-
 
 ## Add the Bell Schedule Widget
 
@@ -35,7 +33,6 @@ The widget has two modes: collapsed and expanded. Tap the 'Show More' or 'Show L
 The widget is designed to operate independent from the app for as long as the calendar runs (up to 60 days). However, if the bell schedule changes, the only way the widget will know this is if the app is opened. 
 
 ![](photo-3.jpeg)
-
 
 ## Set Your Own Class Schedule
 

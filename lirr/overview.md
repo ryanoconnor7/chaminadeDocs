@@ -6,7 +6,6 @@ Using the LIRR widget, you can view arriving trains at Mineola Station.
 
 In order, the columns display: line color, destination, schedule time, estimated time of arrival/status, & track number.
 
-
 ## How it Works
 
 The widget fetches train information from the MTA every 15 seconds. 
@@ -17,7 +16,6 @@ A few things to note:
 * An internet connection is required for the widget.
 * A train may show as arriving (flashing 0m) for longer than the train is actually at the station.
 * As a general rule of thumb, predict that the arrival time will be accurate to plus or minus 2 minutes. Don't rely on it if you're extremely tight on making a train.
-
 
 ## Add the LIRR Widget
 
