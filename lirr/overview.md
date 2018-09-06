@@ -13,7 +13,7 @@ A few things to note:
 
 * If a train is cancelled or held, the estimated arrival will display 'CANC' or 'HELD', respectively.
 * An internet connection is required for the widget.
-* A train may show as arriving (0m flashing) for longer than the train is at the station.
+* A train may show as arriving (0m flashing) for longer than the train is actually at the station.
 * As a general rule of thumb, predict that the arrival time will be accurate to plus or minus 2 minutes. Don't rely on it if you're extremely tight on making a train.
 
 
