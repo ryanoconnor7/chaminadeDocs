@@ -2,7 +2,9 @@
 
 Using the LIRR widget, you can view arriving trains at Mineola Station. 
 
-![In order, the columns display: line color, destination, schedule time, estimated time of arrival/status, & track number.](photo.jpeg)
+![](photo.jpeg)
+
+In order, the columns display: line color, destination, schedule time, estimated time of arrival/status, & track number.
 
 
 ## How it Works
