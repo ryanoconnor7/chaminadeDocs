@@ -1,6 +1,6 @@
 # Bell Schedule
 
-In the app, the Bell Schedule view can be found in Events, then by tapping the 'Bells' button in the top right. During the school day, this button will say 'Period * starts/ends at *'. Note that this button will not appear on weekends or (most) no school days. 
+In the app, the Bell Schedule view can be found in Events, then by tapping the 'Bells' button in the top right. During the school day, this button will say 'Period x starts/ends at (time)'. Note that this button will not appear on weekends or (most) no school days. 
 
 ![](photo.jpeg)
 
