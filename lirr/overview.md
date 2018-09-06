@@ -19,6 +19,8 @@ A few things to note:
 
 ## Add the LIRR Widget
 
+The LIRR Widget operates in the Today View. The Today View can be reached to the left of either your lock screen or home screen. 
+
 To add the widget:
 
 1. Unlock your device
@@ -26,3 +28,4 @@ To add the widget:
 3. Scroll to the bottom and tap the 'Edit' button
 4. Scroll down to the 'More Widgets' section and tap to add 'Mineola LIRR'
 
+![](photo.png)
