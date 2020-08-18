@@ -10,6 +10,16 @@ Welcome to the guide for the Chaminade HS App. This guide covers how to use the 
 
 ## What's New
 
+### Version 1.7
+*Released August 17, 2020*
+
+* Dark mode support
+
+### Version 1.6
+*Released January 7, 2019*
+
+* Long press on an event to add it to your calendar
+
 ### Version 1.5
 *Released September 8, 2018*
 
