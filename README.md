@@ -10,6 +10,11 @@ Welcome to the guide for the Chaminade HS App. This guide covers how to use the 
 
 ## What's New
 
+### Version 1.7.5
+*Released September 11, 2020*
+
+* 2020-21 Bell Schedule
+
 ### Version 1.7
 *Released August 17, 2020*
 
