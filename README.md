@@ -10,6 +10,12 @@ Welcome to the guide for the Chaminade HS App. This guide covers how to use the 
 
 ## What's New
 
+### Version 1.8.0
+*Released September 27, 2020*
+
+* iOS 14 support for the bell schedule widget
+* New virtual tour is now part of the app
+
 ### Version 1.7.5
 *Released September 11, 2020*
 
